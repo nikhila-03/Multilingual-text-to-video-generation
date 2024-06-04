@@ -29,13 +29,17 @@ The steps involved in this project is as follows:
 
 ->This is the team project with 6 members.
 
-->We have generated the female and male videos(Note:The images are taken from opensource)
+->We have generated the female and male videos with the titles at the bottom(Note:The images are taken from opensource)
 
-Generated videos:
+OUTPUT:
 
-->Female news reader:![female](https://github.com/nikhila-03/Multilingual-text-to-video-generation/assets/131776761/cf2a0bf2-faf2-4640-aab6-868b9d78f408)
+->Female news reader:
 
-->Male news reader:![male](https://github.com/nikhila-03/Multilingual-text-to-video-generation/assets/131776761/cf45c8cb-72ad-4aa4-bc5e-9f27528c644a)
+![female](https://github.com/nikhila-03/Multilingual-text-to-video-generation/assets/131776761/cf2a0bf2-faf2-4640-aab6-868b9d78f408)
+
+->Male news reader:
+
+![male](https://github.com/nikhila-03/Multilingual-text-to-video-generation/assets/131776761/cf45c8cb-72ad-4aa4-bc5e-9f27528c644a)
 
 
 
