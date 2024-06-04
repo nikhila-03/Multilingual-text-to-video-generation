@@ -25,7 +25,7 @@ The steps involved in this project is as follows:
 
 10.At last merge the video and imagesequence clip.
 
-       Finally,it generated the video.
+Finally,it generated the video.
 
 ->This is the team project with 6 members.
 
