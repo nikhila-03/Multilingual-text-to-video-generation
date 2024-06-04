@@ -33,11 +33,11 @@ Finally,it generated the video.
 
 OUTPUT:
 
-->Female news reader:
+->Female news reader reading news:
 
 ![female](https://github.com/nikhila-03/Multilingual-text-to-video-generation/assets/131776761/cf2a0bf2-faf2-4640-aab6-868b9d78f408)
 
-->Male news reader:
+->Male news reader reading news:
 
 ![male](https://github.com/nikhila-03/Multilingual-text-to-video-generation/assets/131776761/cf45c8cb-72ad-4aa4-bc5e-9f27528c644a)
 
