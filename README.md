@@ -2,6 +2,7 @@
 The objective of this project is to convert the text news to video to increase awareness among the youth and audience with the news.
 In this project i have helped in scrapping the data using beautifulsoup and generated the pib website using flask
 The steps involved in this project is as follows:
+
 1.Scrapping the text from the PIB website.
 2.Summarize the scrapped text.
 3.Extract the tokens from the summarized data.
